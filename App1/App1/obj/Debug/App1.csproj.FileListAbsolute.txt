@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.dll
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\App1.pdb
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.dll
+c:\users\admin\documents\visual studio 2015\Projects\App1\App1\App1\obj\Debug\App1.pdb
